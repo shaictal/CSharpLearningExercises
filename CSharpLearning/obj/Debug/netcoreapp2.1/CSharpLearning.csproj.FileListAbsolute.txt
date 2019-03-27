@@ -9,3 +9,14 @@ D:\Upskill\CSharpLearning\CSharpLearning\obj\Debug\netcoreapp2.1\CSharpLearning.
 D:\Upskill\CSharpLearning\CSharpLearning\obj\Debug\netcoreapp2.1\CSharpLearning.AssemblyInfo.cs
 D:\Upskill\CSharpLearning\CSharpLearning\obj\Debug\netcoreapp2.1\CSharpLearning.dll
 D:\Upskill\CSharpLearning\CSharpLearning\obj\Debug\netcoreapp2.1\CSharpLearning.pdb
+D:\Upskill\CSharpLearningExercises\CSharpLearning\bin\Debug\netcoreapp2.1\CSharpLearning.deps.json
+D:\Upskill\CSharpLearningExercises\CSharpLearning\bin\Debug\netcoreapp2.1\CSharpLearning.runtimeconfig.json
+D:\Upskill\CSharpLearningExercises\CSharpLearning\bin\Debug\netcoreapp2.1\CSharpLearning.runtimeconfig.dev.json
+D:\Upskill\CSharpLearningExercises\CSharpLearning\bin\Debug\netcoreapp2.1\CSharpLearning.dll
+D:\Upskill\CSharpLearningExercises\CSharpLearning\bin\Debug\netcoreapp2.1\CSharpLearning.pdb
+D:\Upskill\CSharpLearningExercises\CSharpLearning\obj\Debug\netcoreapp2.1\CSharpLearning.csprojAssemblyReference.cache
+D:\Upskill\CSharpLearningExercises\CSharpLearning\obj\Debug\netcoreapp2.1\CSharpLearning.csproj.CoreCompileInputs.cache
+D:\Upskill\CSharpLearningExercises\CSharpLearning\obj\Debug\netcoreapp2.1\CSharpLearning.AssemblyInfoInputs.cache
+D:\Upskill\CSharpLearningExercises\CSharpLearning\obj\Debug\netcoreapp2.1\CSharpLearning.AssemblyInfo.cs
+D:\Upskill\CSharpLearningExercises\CSharpLearning\obj\Debug\netcoreapp2.1\CSharpLearning.dll
+D:\Upskill\CSharpLearningExercises\CSharpLearning\obj\Debug\netcoreapp2.1\CSharpLearning.pdb

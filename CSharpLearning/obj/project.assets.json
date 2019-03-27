@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Upskill\\CSharpLearning\\CSharpLearning\\CSharpLearning.csproj",
+      "projectUniqueName": "D:\\Upskill\\CSharpLearningExercises\\CSharpLearning\\CSharpLearning.csproj",
       "projectName": "CSharpLearning",
-      "projectPath": "D:\\Upskill\\CSharpLearning\\CSharpLearning\\CSharpLearning.csproj",
+      "projectPath": "D:\\Upskill\\CSharpLearningExercises\\CSharpLearning\\CSharpLearning.csproj",
       "packagesPath": "C:\\Users\\shait\\.nuget\\packages\\",
-      "outputPath": "D:\\Upskill\\CSharpLearning\\CSharpLearning\\obj\\",
+      "outputPath": "D:\\Upskill\\CSharpLearningExercises\\CSharpLearning\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
