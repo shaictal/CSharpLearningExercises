@@ -1,0 +1,11 @@
+D:\Upskill\CSharpLearning\CSharpLearning\bin\Debug\netcoreapp2.1\CSharpLearning.deps.json
+D:\Upskill\CSharpLearning\CSharpLearning\bin\Debug\netcoreapp2.1\CSharpLearning.runtimeconfig.json
+D:\Upskill\CSharpLearning\CSharpLearning\bin\Debug\netcoreapp2.1\CSharpLearning.runtimeconfig.dev.json
+D:\Upskill\CSharpLearning\CSharpLearning\bin\Debug\netcoreapp2.1\CSharpLearning.dll
+D:\Upskill\CSharpLearning\CSharpLearning\bin\Debug\netcoreapp2.1\CSharpLearning.pdb
+D:\Upskill\CSharpLearning\CSharpLearning\obj\Debug\netcoreapp2.1\CSharpLearning.csprojAssemblyReference.cache
+D:\Upskill\CSharpLearning\CSharpLearning\obj\Debug\netcoreapp2.1\CSharpLearning.csproj.CoreCompileInputs.cache
+D:\Upskill\CSharpLearning\CSharpLearning\obj\Debug\netcoreapp2.1\CSharpLearning.AssemblyInfoInputs.cache
+D:\Upskill\CSharpLearning\CSharpLearning\obj\Debug\netcoreapp2.1\CSharpLearning.AssemblyInfo.cs
+D:\Upskill\CSharpLearning\CSharpLearning\obj\Debug\netcoreapp2.1\CSharpLearning.dll
+D:\Upskill\CSharpLearning\CSharpLearning\obj\Debug\netcoreapp2.1\CSharpLearning.pdb
